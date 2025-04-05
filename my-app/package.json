@@ -2,9 +2,10 @@
     "name": "my-app",
     "version": "1.0.0",
     "scripts": {
+        "dev": "catalyst dev",
         "start": "catalyst start",
         "build": "catalyst build",
-        "serve": "catalyst serve",
+        "serve": "catalyst serve --host 0.0.0.0 --port 3000",
         "lint": "eslint .",
         "devBuild": "catalyst devBuild",
         "devServe": "catalyst devServe"
