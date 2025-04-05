@@ -11,7 +11,7 @@ import {
   LineChart,
   PieChart,
   TrendingUp,
-  Zap,
+  Zap, 
   Users,
   ArrowRight,
 } from "lucide-react";
