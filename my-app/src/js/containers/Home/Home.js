@@ -19,7 +19,7 @@ import "./styles.css";
 
 export default function LandingPage() {
   return (
-    <div className="page-wrapper">
+    <div className="page-wrapper"> 
       <Header />
       <Hero />
       <Features />
