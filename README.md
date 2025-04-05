@@ -6,7 +6,8 @@ VisuFlow is an interactive data storytelling platform that transforms complex da
 
 <img width="1454" alt="Screenshot 2025-04-05 at 3 56 31 PM" src="https://github.com/user-attachments/assets/496e58f6-7397-48a7-b3d7-947b3cc5dd2f" />
 
-##Video demo
+
+## Video demo
 [DEMO](https://drive.google.com/file/d/1QvLduggYvqbW--mgA53kWERxYRhhnLOn/view?usp=sharing)
 
 
